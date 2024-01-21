@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jared :D!</h1>
-<h3 align="center">A passionate linux enthusiast, homelabber, and soon to be Network Engineer!</h3>
+<h1 align="center">Hi 👋, I'm Jared</h1>
+<h3 align="center">A passionate linux enthusiast, homelabber, and soon to be Network Engineer!  I have a broad range of of skills mostly due to my passion for learning and tinkering around with things.  It all started with a eMachines T3256 on 2003.</h3>
 
 - 🌱 I’m currently studying for my **CCNA!**
 
@@ -19,42 +19,110 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- **HTML, CSS, JavaScript:**
-  - [HTML5](https://www.w3.org/html/) ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg){width=40 height=40}
-  - [CSS3](https://www.w3schools.com/css/) ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg){width=40 height=40}
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){width=40 height=40}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technologies</title>
+</head>
+<body>
+  <!-- Web Development -->
+  <h2>Web Development</h2>
+  <p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Web Frameworks:**
-  - [Flask](https://flask.palletsprojects.com/) ![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg){width=40 height=40}
-  - [Bootstrap](https://getbootstrap.com) ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg){width=40 height=40}
-  - [React](https://reactjs.org/) ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){width=40 height=40}
-  - [Express](https://expressjs.com) ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg){width=40 height=40}
+  <!-- Web Frameworks -->
+  <h2>Web Frameworks</h2>
+  <p align="left">
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Version Control:**
-  - [Git](https://git-scm.com/) ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg){width=40 height=40}
+  <!-- Version Control -->
+  <h2>Version Control</h2>
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Containerization:**
-  - [Docker](https://www.docker.com/) ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg){width=40 height=40}
+  <!-- Containerization -->
+  <h2>Containerization</h2>
+  <p align="left">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Server-Side Scripting:**
-  - [Node.js](https://nodejs.org) ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg){width=40 height=40}
-  - [Python](https://www.python.org) ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){width=40 height=40}
+  <!-- Server-Side Scripting -->
+  <h2>Server-Side Scripting</h2>
+  <p align="left">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Web Servers:**
-  - [Nginx](https://www.nginx.com) ![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg){width=40 height=40}
+  <!-- Web Servers -->
+  <h2>Web Servers</h2>
+  <p align="left">
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Database:**
-  - [SQLite](https://www.sqlite.org/) ![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg){width=40 height=40}
+  <!-- Database -->
+  <h2>Database</h2>
+  <p align="left">
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Testing:**
-  - [Selenium](https://www.selenium.dev) ![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg){width=40 height=40}
+  <!-- Testing -->
+  <h2>Testing</h2>
+  <p align="left">
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    </a>
+  </p>
 
-- **Other:**
-  - [Linux](https://www.linux.org/) ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg){width=40 height=40}
-  - [Bash](https://www.gnu.org/software/bash/) ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg){width=40 height=40}
-  - [Postman](https://postman.com) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg){width=40 height=40}
-
+  <!-- Other -->
+  <h2>Other</h2>
+  <p align="left">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+  </p>
+</body>
+</html>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcooper94&show_icons=true&locale=en&layout=compact" alt="jcooper94" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcooper94&" alt="jcooper94" /></p>
-
