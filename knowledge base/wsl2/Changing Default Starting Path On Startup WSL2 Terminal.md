@@ -1,7 +1,7 @@
 If your feeling lazy you can change the default path where WSL2 starts your terminal, by using the following script I wrote. Simply change to the desired startup directory and use the provided `curl` command:
 
 ```bash
-curl -o startup-script.sh https://raw.githubusercontent.com/your-username/your-repo/master/startup-script.sh
+curl -o startup-script.sh https://raw.githubusercontent.com/jcooper94/Shell-Scripts/main/Bash/wsl2_startup.sh
 ```
 Once you have the script, make it executable:
 ```bash
@@ -11,6 +11,9 @@ Then run the script
 ```bash
 ./startup-script.sh
 ```
+
+NOTE - Your C: filesystem is located as a mount point located at /mnt/c/, you probably want to make your home something like /mnt/c/users/<your username>/Documents or some other folder.
+
 ## Changing Default Path On Startup in WSL2 Terminal
 
 To change the default path where WSL2 starts your terminal, you can modify the default shell profile settings. Here's how you can do it:
