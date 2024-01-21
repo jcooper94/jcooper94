@@ -20,6 +20,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <body>
+  <!-- Other -->
+  <h2>Unix</h2>
+  <p align="left">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+  </p>
+  <h2>Containerization</h2>
+  <p align="left">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+  </p>
+
+  <!-- Server-Side Scripting -->
+  <h2>Server-Side Scripting</h2>
+  <p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+  </p>
   <!-- Web Development -->
   <h2>Web Development</h2>
   <p align="left">
@@ -58,26 +85,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
   </p>
-
-  <!-- Containerization -->
-  <h2>Containerization</h2>
-  <p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-  </p>
-
-  <!-- Server-Side Scripting -->
-  <h2>Server-Side Scripting</h2>
-  <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-  </p>
-
+  
   <!-- Web Servers -->
   <h2>Web Servers</h2>
   <p align="left">
@@ -102,17 +110,6 @@
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-  </p>
-
-  <!-- Other -->
-  <h2>Other</h2>
-  <p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
   </p>
 </body>
