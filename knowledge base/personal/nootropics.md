@@ -54,9 +54,7 @@ Heres some information that helped me:
    - [Healthygamergg](https://www.youtube.com/c/HealthyGamerGG)
 
 <div align="center">
-
 # My Current Stack :
-
 - Vitamin D3 10,000 IU
 - Creatine 5G
 - R Alpha Lipoic Acid 600mg
@@ -73,5 +71,4 @@ Heres some information that helped me:
 - Chia Seeds + Blueberries
 - 10,000 Steps of walking or jogging daily
 - Decaffeinated Coffee
-
 </div>
