@@ -53,7 +53,6 @@ Heres some information that helped me:
 10. **YouTube Channels:**
    - [Healthygamergg](https://www.youtube.com/c/HealthyGamerGG)
 
-<div align="center">
 # My Current Stack :
 - Vitamin D3 10,000 IU
 - Creatine 5G
@@ -71,4 +70,3 @@ Heres some information that helped me:
 - Chia Seeds + Blueberries
 - 10,000 Steps of walking or jogging daily
 - Decaffeinated Coffee
-</div>
