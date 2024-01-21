@@ -45,39 +45,33 @@ Heres some information that helped me:
    - "12 Rules for Life"
    - "12 More Rules for Life"
 
-10. **Audio Books:**
-   - "The Hacking of the American Mind"
-   - "Brain Energy"
-   - "Outlive"
-   - "Can’t Hurt Me"
-   - "Atomic Habits"
-   - "Boundless"
-   - "12 Rules for Life"
-   - "12 More Rules for Life"
-
-11. **Podcasts:**
+9. **Podcasts:**
    - [Joe Rogan Podcast](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
    - [Andrew Huberman Podcast](https://www.hubermanlab.com/podcast)
    - [Gary Brecka Ultimate Human Podcast](https://open.spotify.com/show/5Xk07pMVqkqjFvxDl45ISX)
 
-12. **YouTube Channels:**
+10. **YouTube Channels:**
    - [Healthygamergg](https://www.youtube.com/c/HealthyGamerGG)
 
-My Current Stack :
+<div align="center">
 
-Vitamin D3 10,000 IU
-Creatine 5G
-R Alpha Lipoic Acid 600mg
-Fish Oil EPA 1000mg 
-L Tyrosine 500-1000mg 
-Aceytl L Carnitine 500-1000mg
-N Aceytl Cysteine 600-1200mg
-Taurine 3000mg
-Lions Mane Fruiting Body 1000mg
-Methylated B Vitamin Complex (without B1, methyl b12 and  methyl folate)
-Benfothiamine 300mg
-L-Theanine 200-400mg
-Methylphenidate 36mg ER
-Chia Seeds + Blueberries
-10,000 Steps of walking or jogging daily
-Decaffeinated Coffee
+# My Current Stack :
+
+- Vitamin D3 10,000 IU
+- Creatine 5G
+- R Alpha Lipoic Acid 600mg
+- Fish Oil EPA 1000mg
+- L Tyrosine 500-1000mg
+- Aceytl L Carnitine 500-1000mg
+- N Aceytl Cysteine 600-1200mg
+- Taurine 3000mg
+- Lions Mane Fruiting Body 1000mg
+- Methylated B Vitamin Complex (without B1, methyl b12, and methyl folate)
+- Benfothiamine 300mg
+- L-Theanine 200-400mg
+- Methylphenidate 36mg ER
+- Chia Seeds + Blueberries
+- 10,000 Steps of walking or jogging daily
+- Decaffeinated Coffee
+
+</div>
