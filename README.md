@@ -19,44 +19,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Certainly! Here's the list organized based on technologies:
-
 - **HTML, CSS, JavaScript:**
-  - [HTML5](https://www.w3.org/html/) ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-  - [CSS3](https://www.w3schools.com/css/) ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+  - [HTML5](https://www.w3.org/html/) ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg){width=40 height=40}
+  - [CSS3](https://www.w3schools.com/css/) ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg){width=40 height=40}
+  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){width=40 height=40}
 
 - **Web Frameworks:**
-  - [Bootstrap](https://getbootstrap.com) ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-  - [Express](https://expressjs.com) ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-  - [Flask](https://flask.palletsprojects.com/) ![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
-  - [React](https://reactjs.org/) ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+  - [Flask](https://flask.palletsprojects.com/) ![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg){width=40 height=40}
+  - [Bootstrap](https://getbootstrap.com) ![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg){width=40 height=40}
+  - [React](https://reactjs.org/) ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){width=40 height=40}
+  - [Express](https://expressjs.com) ![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg){width=40 height=40}
 
 - **Version Control:**
-  - [Git](https://git-scm.com/) ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+  - [Git](https://git-scm.com/) ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg){width=40 height=40}
 
 - **Containerization:**
-  - [Docker](https://www.docker.com/) ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+  - [Docker](https://www.docker.com/) ![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg){width=40 height=40}
 
 - **Server-Side Scripting:**
-  - [Node.js](https://nodejs.org) ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-  - [Python](https://www.python.org) ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+  - [Node.js](https://nodejs.org) ![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg){width=40 height=40}
+  - [Python](https://www.python.org) ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){width=40 height=40}
 
 - **Web Servers:**
-  - [Nginx](https://www.nginx.com) ![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+  - [Nginx](https://www.nginx.com) ![nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg){width=40 height=40}
 
 - **Database:**
-  - [SQLite](https://www.sqlite.org/) ![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
+  - [SQLite](https://www.sqlite.org/) ![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg){width=40 height=40}
 
 - **Testing:**
-  - [Selenium](https://www.selenium.dev) ![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)
+  - [Selenium](https://www.selenium.dev) ![selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg){width=40 height=40}
 
 - **Other:**
-  - [Linux](https://www.linux.org/) ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-  - [Bash](https://www.gnu.org/software/bash/) ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-  - [Postman](https://postman.com) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-
-Feel free to use this organized list!
+  - [Linux](https://www.linux.org/) ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg){width=40 height=40}
+  - [Bash](https://www.gnu.org/software/bash/) ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg){width=40 height=40}
+  - [Postman](https://postman.com) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg){width=40 height=40}
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcooper94&show_icons=true&locale=en&layout=compact" alt="jcooper94" /></p>
 
