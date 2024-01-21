@@ -6,8 +6,7 @@
   <ul>
     <li>🌱 I’m currently studying for my <strong>CCNA!</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/jcooper94?tab=repositories">GitHub Repositories</a></li>
-    <li>My second interest outside the realm of technology is Nootropics, Psychiatry, and how the brain and nervous system function. <a href="#">(My Stack)</a></li>
-    <li>I regularly write articles on <a href="https://autoimmunexd.github.io/autoimmunexd/">autoimmunexd.github.io</a></li>
+    <li>My second interest outside the realm of technology is Nootropics, Psychiatry, and how the brain and nervous system function. <a href="https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/personal/nootropics.md">(Journey and Nootropic Stack)</a></li>
     <li>📫 How to reach me <strong>jaredcoopertech@outlook.com</strong></li>
     <li>📄 Know about my experiences <a href="#">resume here</a></li>
     <li>⚡ Fun fact: My homelab costs more than my car xD!</li>
