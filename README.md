@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">A passionate linux enthusiast, homelabber, and soon to be Networking Proffesional!  I have a broad range of of skills mostly due to my passion for learning and tinkering around with things.  It all started with a 2003 eMachines T3256.</h3>
+<h3 align="center">A passionate linux enthusiast, homelabber, and soon to be Networking Proffesional!  I have a broad range of of skills mostly due to my passion for learning and tinkering around with things.  It all started with a 2003 eMachines T3256.  I'm ditching my personal site and blog and will be using my Github in it's place.  Feel free to look around!</h3>
 
 - 🌱 I’m currently studying for my **CCNA!**
 
