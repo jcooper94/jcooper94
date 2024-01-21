@@ -32,20 +32,8 @@ Heres some information that helped me:
 7. **Community Links:**
    - [Nootropics Beginners Guide](https://old.reddit.com/r/Nootropics/wiki/beginners)
    - [Biohackers Subreddit](https://old.reddit.com/r/Biohackers/)
-
-8. **Recommended Reading:**
-   - "The Hacking of the American Mind"
-   - "Brain Energy: A Revolutionary Breakthrough in Understanding Mental Health"
-   - "Outlive - Dr. Peter Atia"
-   - "Can’t Hurt Me - David Goggins"
-   - "Atomic Habits - James Clear"
-   - "Head First 2nd Edition: The Complete Guide to Healing and Optimizing Your Brain With Nootropic Supplements"
-   - "The Ultimate Human - Gary Brecka"
-   - "Boundless - David Greene"
-   - "12 Rules for Life"
-   - "12 More Rules for Life"
-
-10. **Audio Books:**
+     
+8. **Audio Books:**
    - "The Hacking of the American Mind"
    - "Brain Energy"
    - "Outlive"
@@ -55,12 +43,12 @@ Heres some information that helped me:
    - "12 Rules for Life"
    - "12 More Rules for Life"
 
-11. **Podcasts:**
+9. **Podcasts:**
    - [Joe Rogan Podcast](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
    - [Andrew Huberman Podcast](https://www.hubermanlab.com/podcast)
    - [Gary Brecka Ultimate Human Podcast](https://open.spotify.com/show/5Xk07pMVqkqjFvxDl45ISX)
 
-12. **YouTube Channels:**
+10. **YouTube Channels:**
    - [Healthygamergg](https://www.youtube.com/c/HealthyGamerGG)
 
 My Current Stack :
