@@ -10,7 +10,6 @@
     </li>
     </li>
     <li>📫 How to reach me <strong>jaredcoopertech@outlook.com</strong></li>
-    <li>⚡ Fun fact: My homelab costs more than my car xD!</li>
     <li>My second interest outside the realm of technology is Nootropics, Psychiatry, and how the brain and nervous system function. <a href="https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/personal/nootropics.md">(Journey and Nootropic Stack)</a>
   </ul>
 
