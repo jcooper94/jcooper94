@@ -1,3 +1,5 @@
+Here's the corrected markdown formatting for your content:
+
 1. **Create a Python script:**
    Create your Python script, for example, `myscript.py`. Make sure it has the necessary shebang at the beginning:
 
@@ -22,7 +24,8 @@
    Description=My Python Script
 
    [Service]
-   ExecStart=/path/to/myscript.py
+   ExecStart=/usr/bin/python3 /your/location/app.py
+   WorkingDirectory=/your/location/
    Restart=always
    User=your_username
    Group=your_groupname
@@ -31,12 +34,11 @@
    WantedBy=multi-user.target
    ```
 
-   Replace `/path/to/myscript.py` with the actual path to your Python script, and set the correct `User` and `Group`.
-
 4. **Enable and start the service:**
    Run the following commands to enable and start the service:
 
    ```bash
+   sudo systemctl daemon-reload   # Add this line
    sudo systemctl enable myscript.service
    sudo systemctl start myscript.service
    ```
@@ -49,20 +51,3 @@
    ```bash
    sudo systemctl status myscript.service
    ```
-
-```markdown
-I had to add the following under `service`:
-
-```
-[Service]
-ExecStart=/usr/bin/python3 /mnt/thevault/ui/homelabui/app.py
-WorkingDirectory=/mnt/thevault/ui/homelabui
-```
-
-Then, to get it to run, I executed the following commands:
-
-```bash
-sudo systemctl daemon-reload
-sudo systemctl enable your_service.service
-sudo systemctl start your_service.service
-```
