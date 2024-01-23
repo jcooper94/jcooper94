@@ -1,4 +1,3 @@
-```markdown
 # Terminal Shortcuts
 
 - **CTRL + A:** Move cursor to the beginning of the command line.
@@ -28,4 +27,3 @@ git add . && git commit -m "my commit" && git push origin main
 # Instead of clear command
 
 - **Ctrl + L** - Shortcut for typing clear and then enter.
-```
