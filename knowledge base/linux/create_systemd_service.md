@@ -53,7 +53,7 @@
 ```markdown
 I had to add the following under `service`:
 
-```ini
+```
 [Service]
 ExecStart=/usr/bin/python3 /mnt/thevault/ui/homelabui/app.py
 WorkingDirectory=/mnt/thevault/ui/homelabui
@@ -65,5 +65,4 @@ Then, to get it to run, I executed the following commands:
 sudo systemctl daemon-reload
 sudo systemctl enable your_service.service
 sudo systemctl start your_service.service
-```
 ```
