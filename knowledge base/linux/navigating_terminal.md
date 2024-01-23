@@ -23,4 +23,9 @@ git add . && git commit -m "my commit" && git push origin main
 - **Up Arrow:** Cycle through the list of previous commands.
 - **CTRL + R:** Begin typing a command, press enter if it pulls up the one you entered previously.
 - **history, !593** Type `history`, then enter the corresponding command with `!` in front (e.g., `!593`).
+
+
+# Instead of clear command
+
+- **Ctrl + L** - Shortcut for typing clear and then enter.
 ```
