@@ -50,4 +50,20 @@
    sudo systemctl status myscript.service
    ```
 
-   This will show whether the service is running and any recent logs.
+```markdown
+I had to add the following under `service`:
+
+```ini
+[Service]
+ExecStart=/usr/bin/python3 /mnt/thevault/ui/homelabui/app.py
+WorkingDirectory=/mnt/thevault/ui/homelabui
+```
+
+Then, to get it to run, I executed the following commands:
+
+```bash
+sudo systemctl daemon-reload
+sudo systemctl enable your_service.service
+sudo systemctl start your_service.service
+```
+```
