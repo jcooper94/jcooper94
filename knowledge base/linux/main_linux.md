@@ -4,14 +4,14 @@
 
 - Bash Cheat Sheet: [Bash Cheat Sheet](https://devhints.io/bash)
 
-## - [Terminal](linux/topics/terminal)
+## - [Terminal](https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/linux/topics/terminal)
 
-- [Navigation Tips](linux/topics/terminal/navigating_terminal.md)
+- [Navigation Tips](https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/linux/topics/terminal/navigating_terminal.md)
 
-## - [Systemd](linux/topics/systemd)
+## - [Systemd](https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/linux/topics/systemd)
 
-- [Create a service](linux/topics/systemd/create_systemd_service.md)
+- [Create a service](https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/linux/topics/systemd/create_systemd_service.md)
 
-## - [Samba](linux/topics/samba)
+## - [Samba](https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/linux/topics/samba)
 
-- [Create a Samba share](linux/topics/samba/create_samba_share.md)
+- [Create a Samba share](https://github.com/jcooper94/jcooper94/blob/main/knowledge%20base/linux/topics/samba/create_samba_share.md)
