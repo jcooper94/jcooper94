@@ -1,6 +1,6 @@
 ```bash
 # Install Samba (if not already installed)
-sudo apt-get install samba
+sudo apt install samba
 
 # Create a directory for your share
 sudo mkdir /path/to/your/share
