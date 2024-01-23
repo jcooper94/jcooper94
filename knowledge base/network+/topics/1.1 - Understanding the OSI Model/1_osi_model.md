@@ -2,7 +2,7 @@
 
 The OSI (Open Systems Interconnection) reference model is a conceptual framework comprising 7 layers, each representing different protocols governing the flow of information across a network.
 
-![OSI MODEL](network/materials/images/osi_model.png)
+![OSI MODEL](https://raw.githubusercontent.com/jcooper94/jcooper94/main/knowledge%20base/network%2B/materials/images/osi_model.png)
 
 ### Mnemonics:
 - Please Do Not Throw Sausage Pizza Away

@@ -12,4 +12,4 @@
 
 # Encapsulation and Decapsulation of Data
 
-![Encapsulattion and Decapsulation](network+\materials\images\encapsulation_decapsulation.PNG)
+![Encapsulattion and Decapsulation](https://raw.githubusercontent.com/jcooper94/jcooper94/main/knowledge%20base/network%2B/materials/images/encapsulation_decapsulation.png)
