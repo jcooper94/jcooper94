@@ -49,8 +49,7 @@ REPO LINK GOES HERE
 Looks like a Ubuntu 16.04 desktop in the browser with a terminal window.
 
 # Python Scripts
-IMAGE THAT LINKS TO YOUTUBE DEMONSTRATION GOES HERE
-REPO LINK GOES HERE
+[Qbittorent Seeder Remover](https://github.com/jcooper94/Shell-Scripts/blob/main/Python/qbittorrent_seeders_readme.md)
 ### qbittorent remove torrents based on a specified threshold set by the user.
 
 # Bash Scripts
